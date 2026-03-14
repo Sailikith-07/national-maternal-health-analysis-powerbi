@@ -9,10 +9,11 @@ Institutional delivery is a cornerstone of maternal healthcare, yet a significan
 - Evaluate the Equity Gap between Aspirational and Standard districts to measure the success of targeted interventions.
 - Assess the impact of Service Continuity and Financial Protection on final birth outcomes.
 
-An Interactive Power BI Report can be downloaded **here**
+An Interactive Power BI Report can be downloaded [here](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Dashboard/power%20bi%20project.pbix)
+
 A PPT presentation provides a clear and detailed explanation of the project is **here**
 
---
+---
 
 # Data Structure Overview
 
@@ -26,7 +27,7 @@ The analysis utilizes a multi-dimensional dataset focused on maternal health ind
 
 - **Key Metrics:** Institutional Birth (IB) Rate, 4+ Antenatal Care (ANC) visits, Out-of-Pocket (OOP) Expenditure, and Facility Density (PHCs/Sub-Centers).
 
---
+---
 
 # Executive Summary
 
@@ -34,11 +35,11 @@ After gaining **8.69%** growth in institutional births since 2015, the national 
 
 **Top Finding:** True access extends beyond building facilities. Our analysis reveals that **Service Continuity (ANC completion)** and **Financial Protection (reducing OOP costs)** are the primary drivers of hospital utilization. Infrastructure only acts as an enabler when it is functional and physically proximate to the mother.
 
-Below is the Summary Report of this project, this dashboard also includes diagnostic analysis. The enitre interactive dashboard can be downloaded **here**
+Below is the Summary Report of this project, this dashboard also includes diagnostic analysis. The enitre interactive dashboard can be downloaded [here](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Dashboard/power%20bi%20project.pbix)
 
 ![Suammry Report](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/Summary%20Report.png)
 
---
+---
 
 # Insights Deep Dive
 
@@ -72,7 +73,7 @@ Below is the Summary Report of this project, this dashboard also includes diagno
 
 ![District-wise Performance Indicators](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/District%20PIs.png)
 
---
+---
 
 # Caveats and Assumptions
 
@@ -89,7 +90,7 @@ To ensure the integrity of this analysis, the following limitations and assumpti
 **Limited Data for Root Cause Analysis:**
 While performing 5‑Why analysis on ANC coverage, the investigation could only proceed two levels before data gaps appeared. Information on functional aspects such as availability of qualified doctors, medical equipment, or sub‑center readiness was not present. As a result, deeper diagnostic insights could not be established.
 
---
+---
 
 # Recommendations
 
@@ -111,7 +112,7 @@ While performing 5‑Why analysis on ANC coverage, the investigation could only 
 
 **Goal:** Remove the economic "regressive tax" that prevents families from utilizing public facilities.
 
---
+---
 
 # Author & Contact
 
