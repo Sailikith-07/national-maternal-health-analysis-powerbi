@@ -11,7 +11,7 @@ Institutional delivery is a cornerstone of maternal healthcare, yet a significan
 
 An Interactive Power BI Report can be downloaded [here](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Dashboard/power%20bi%20project.pbix)
 
-A PPT presentation provides a clear and detailed explanation of the project is **here**
+A simple presentation provides a clear and detailed explanation of the project is [here](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/National-Maternal-Health-Analysis.pdf)
 
 ---
 
