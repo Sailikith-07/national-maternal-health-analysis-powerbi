@@ -12,12 +12,13 @@ Institutional delivery is a cornerstone of maternal healthcare, yet a significan
 An Interactive Power BI Report can be downloaded **here**
 A PPT presentation provides a clear and detailed explanation of the project is **here**
 
+--
 
 # Data Structure Overview
 
 The analysis utilizes a multi-dimensional dataset focused on maternal health indicators across **700+** districts in India.
 
-**Data Model Power BI photo here**
+![Data Model](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/Data%20Model.png)
 
 - **Time Dimensions:** Longitudinal data covering 2015, 2019, and projected 2023 targets.
 
@@ -25,28 +26,23 @@ The analysis utilizes a multi-dimensional dataset focused on maternal health ind
 
 - **Key Metrics:** Institutional Birth (IB) Rate, 4+ Antenatal Care (ANC) visits, Out-of-Pocket (OOP) Expenditure, and Facility Density (PHCs/Sub-Centers).
 
+--
+
 # Executive Summary
 
 After gaining **8.69%** growth in institutional births since 2015, the national average reached **87.5%** in 2019. While the trajectory is positive—projecting a **96.21% rate by 2023**—significant regional disparities remain.
 
-**Top Finding:** True access extends beyond building facilities. Our analysis reveals that **Service Continuity (ANC completion) **and **Financial Protection (reducing OOP costs)** are the primary drivers of hospital utilization. Infrastructure only acts as an enabler when it is functional and physically proximate to the mother.
+**Top Finding:** True access extends beyond building facilities. Our analysis reveals that **Service Continuity (ANC completion)** and **Financial Protection (reducing OOP costs)** are the primary drivers of hospital utilization. Infrastructure only acts as an enabler when it is functional and physically proximate to the mother.
 
 Below is the Summary Report of this project, this dashboard also includes diagnostic analysis. The enitre interactive dashboard can be downloaded **here**
 
-**Paste Summary Report Photo Here**
+![Suammry Report](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/Summary%20Report.png)
 
+--
 
 # Insights Deep Dive
 
-**1. The Service Barrier: The "ANC Drop-off"**
-
-**Finding:** Registration (MCP Card) is high, but retention is low.
-
-**Data:** There is a significant decline in mothers completing the required 4 ANC visits.
-
-**Impact:** This "lost contact" at a critical juncture is a primary failure point for institutional delivery.
-
-**2. The Financial Deterrent: High Cost of "Free" Healthcare**
+**1. The Financial Deterrent: High Cost of "Free" Healthcare**
 
 **Finding:** There is an inverse correlation between Out-of-Pocket (OOP) costs and hospital deliveries.
 
@@ -54,13 +50,29 @@ Below is the Summary Report of this project, this dashboard also includes diagno
 
 **Impact:** Even with "free" public schemes, hidden costs deter families from seeking medical attention.
 
+![Avg Out of Pocket Expenditure](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/Avg%20out%20of%20pocket.png)
+
+**2. The Service Barrier: The "ANC Drop-off"**
+
+**Finding:** Registration (MCP Card) is high, but retention is low.
+
+**Data:** There is a significant decline in mothers completing the required 4 ANC visits.
+
+**Impact:** This "lost contact" at a critical juncture is a primary failure point for institutional delivery.
+
+![ANC Coverage](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/ANC%20Coverage.png)
+
 **3. The Infrastructure Bottleneck**
 
 **Finding:** Physical proximity is the primary enabler.
 
-**Data:** Lower facility density directly correlates with a decline in ANC visits.
+**Data:** Lower facility density correlates with a decline in ANC visits.
 
 **Evidence:** Functional Primary Health Centers (PHCs) drive the coverage needed for mothers to commit to hospital births.
+
+![District-wise Performance Indicators](https://github.com/Sailikith-07/national-maternal-health-analysis-powerbi/blob/main/Images/District%20PIs.png)
+
+--
 
 # Caveats and Assumptions
 
@@ -74,6 +86,10 @@ To ensure the integrity of this analysis, the following limitations and assumpti
 
 **Functional vs. Physical:** A "Functional PHC" is defined by the presence of staff and equipment as per the RHS; however, the actual quality of care provided during a visit is not quantified in this dataset.
 
+**Limited Data for Root Cause Analysis:**
+While performing 5‑Why analysis on ANC coverage, the investigation could only proceed two levels before data gaps appeared. Information on functional aspects such as availability of qualified doctors, medical equipment, or sub‑center readiness was not present. As a result, deeper diagnostic insights could not be established.
+
+--
 
 # Recommendations
 
@@ -94,3 +110,15 @@ To ensure the integrity of this analysis, the following limitations and assumpti
 **Action:** Expand cashless schemes beyond the delivery itself to cover transportation and incidental medicines.
 
 **Goal:** Remove the economic "regressive tax" that prevents families from utilizing public facilities.
+
+--
+
+# Author & Contact
+
+**Gundeti Sailikith**
+
+Aspiring Data Analyst
+
+📧 Email: gundetisalikith@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sailikith-gundeti/)
